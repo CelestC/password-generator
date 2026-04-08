@@ -1,2 +1,2 @@
-# password-generator
-Creates Strong, Random Passwords
+🔐# Password Generator
+🪜 Its purpose is to create strong, Random Passwords

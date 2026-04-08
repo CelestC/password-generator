@@ -1,2 +1,16 @@
 # Password Generator 🔐
-🪜 Its purpose is to create strong, Random Passwords
+
+A Python tool that generates strong, random passwords to improve security.  
+
+## Features
+- Generates passwords with letters, numbers, and symbols
+- User-defined length
+- Beginner-friendly Python project
+
+## How to use
+1. Run `password_generator.py`
+2. Enter desired password length
+3. Get a secure password
+
+## Why I built it
+This project is part of my cybersecurity learning journey, focusing on secure password practices.
